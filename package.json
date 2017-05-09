@@ -1,10 +1,13 @@
 {
   "name": "mzw-randoms-api",
   "version": "1.0.0",
-  "author": "Alex Wilson <a@ax.gy>"
+  "author": "Alex Wilson <a@ax.gy>",
   "license": "MIT",
+  "scripts": {
+    "start": "node index"
+  },
   "dependencies": {
-    "express": "^4.15.2",
-    "forever": "^0.15.3"
+    "cors": "^2.8.3",
+    "express": "5"
   }
 }
