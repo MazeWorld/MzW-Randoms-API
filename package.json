@@ -1,0 +1,10 @@
+{
+  "name": "mzw-randoms-api",
+  "version": "1.0.0",
+  "author": "Alex Wilson <a@ax.gy>"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2",
+    "forever": "^0.15.3"
+  }
+}
